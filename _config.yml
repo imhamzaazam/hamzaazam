@@ -3,21 +3,20 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Hamza Azam
+title: Backend Developer
+email: im.hamzaazam@gmail.com
+website: https://imhamzaazam.github.io/hamzaazam/
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: Hamzazam
+github_username:  imhamzaazam
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: im.hamzaazam
+linkedin_username: hamza-azam
 # pinterest_username: jekyll
-youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
